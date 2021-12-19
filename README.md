@@ -1,6 +1,8 @@
 
 <div align="center">
-    <img align="center" width="100" src="tommattih.png" />
+    <p>
+        <img align="center" width="100" src="tommattih.png" />
+    </p>
     <p>Window to my journey of learn -> https://tommattih.github.io/ </p>
 </div>
     
@@ -68,7 +70,8 @@
     - I have three turtles and one cat whitch uses my toilet.
     - I really like to watch animes, but don't have any patience to watch movies or series.
     - I prefer watching a gameplays than play.
-    - I try to be a most independent like as possible, cutting my own hair, cooking, learning languages, workout and many other things.
+    - I try to be a most independent like as possible, cutting my own hair,
+    cooking my own meals, learning languages, workout and many other things.
     
 #### :detective: Visit counter
  <p align="center">
