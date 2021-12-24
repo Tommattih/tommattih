@@ -3,7 +3,7 @@
     <p>
         <img align="center" width="100" src="tommattih.png" />
     </p>
-    <p>Window to my journey of learn -> https://tommattih.github.io/ </p>
+    <p>Window to my learning journey -> https://tommattih.github.io/ </p>
 </div>
     
 ### &nbsp;&nbsp; 👋:nerd_face: -Hello world! 
