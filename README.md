@@ -15,6 +15,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="markdown.png">
@@ -30,26 +32,30 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
  </div>
 
-#### 🌱 I’m currently learning:    
+#### 🌱 I'm preparing to learn soon:    
 <div>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-</div> 
-
-#### 🌱 To review soon:
-<div>
-   &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
-</div>    
-
-#### 🌱 I'm would to learn soon:
-<div>
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+</div> 
+
+#### 🌱 To learn someday:
+<div>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">   
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
 </div>
 
 #### 📫 How to reach me:
@@ -72,10 +78,10 @@
 #### ⚡ College: Gastronomy 2016
 #### ⚡ High school ends: 2010
 
-#### 😄 Fun facts:
-    - I have three turtles and one cat whitch uses my toilet.
-    - I really like to watch animes, but don't have any patience to watch movies or series.
-    - I prefer watching a gameplays than play.
+#### 😄 Facts about me:
+    - I have two turtles, a cat and many plants.
+    - I really like to watch animes, but don't have any patience to watch movies or regular series.
+    - I prefer watching a gameplays than play (but now I'm delighted with The Witcher 3).
     - I try to be a most independent like as possible, cutting my own hair,
     cooking my own meals, learning languages, workout and many other things.
     
